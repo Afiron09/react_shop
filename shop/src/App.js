@@ -23,7 +23,7 @@ class App extends React.Component {
           title: "Конфеты Merci Молочный шоколад 250 г (4014400901405)",
           img: "2.webp",
           alt: "Конфеты Merci 250 г",
-          desc: "Описание Конфеты Merci Молочный шоколад 250 г Мерси шоколад",
+          desc: "Описание Конфеты Merci Молочный шоколад 250 г",
           category: "Конфеты",
           price: "288.00",
         },
